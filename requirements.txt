@@ -1,0 +1,2 @@
+simplegmail
+google-auth-oauthlib
